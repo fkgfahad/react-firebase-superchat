@@ -1,1 +1,1 @@
-# Firebase SuperChat
+# React Firebase SuperChat
